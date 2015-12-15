@@ -1,7 +1,7 @@
 <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 
 .nav a {
-  color: #5a5a5a;
+  color: #0099ff;
   font-size: 12px;
   font-weight: bold;
   padding: 14px 10px;
@@ -25,19 +25,19 @@
 }
 
 .jumbotron h1 {
-  color: #fff;
-  font-size: 49px;  
+  color: #ccc;
+  font-size: 50px;  
   font-family: 'Raleway', sans-serif;
   font-weight: bold;
 }
 
 .jumbotron p {
   font-size: 21px;
-  color: #fff;
+  color: #ccc;
 }
 
 .learn-more {
-  background-color: #f7f7f7;
+  background-color: #ccc;
 }
 
 .learn-more h3 {
@@ -47,16 +47,16 @@
 }
 
 .learn-more a {
-  color: #00b0ff;
+  color: #000;
 }
 
 .neighborhood-guides{
-    background-color: #efefef;
+    background-color: #999;
     border-bottom: 1px solid #dbdbdb;
 }
 
 .neighborhood-guides h2{
-    color: #393c3d;
+    color: #000;
     font-size: 25px;
 
 }
