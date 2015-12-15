@@ -1,7 +1,7 @@
 <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 
 .nav a {
-  color: #0099ff;
+  color: #330066;
   font-size: 12px;
   font-weight: bold;
   padding: 14px 10px;
@@ -25,7 +25,7 @@
 }
 
 .jumbotron h1 {
-  color: #ccc;
+  color: #999;
   font-size: 50px;  
   font-family: 'Raleway', sans-serif;
   font-weight: bold;
